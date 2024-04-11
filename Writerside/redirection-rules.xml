@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="403f623c">
+        <description>Created after removal of "Add semantic elements to Markdown" from Help Instance</description>
+        <accepts>Add-semantic-elements-to-Markdown.html</accepts>
+    </rule>
+    <rule id="610033e">
+        <description>Created after removal of "Use semantic attributes in Markdown" from Help Instance</description>
+        <accepts>Play-with-semantic-attributes.html</accepts>
+    </rule>
+    <rule id="472d806b">
+        <description>Created after removal of "Empty MD Topic" from Help Instance</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="3b229b27">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="49055093">
+        <description>Created after removal of "Tutorial" from Help Instance</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="108d9641">
+        <description>Created after removal of "Tutorial" from Help Instance</description>
+        <accepts>Tutorial2.html</accepts>
+    </rule>
+    <rule id="c6dc576">
+        <description>Created after removal of "Convert Markdown to XML" from Help Instance</description>
+        <accepts>Convert-Markdown-to-XML.html</accepts>
+    </rule>
+    <rule id="34d390e8">
+        <description>Created after removal of "Quickly add images, links, and tables" from Help Instance</description>
+        <accepts>Quickly-add-images-links-and-tables.html</accepts>
+    </rule>
+    <rule id="15a8161b">
+        <description>Created after removal of "Add Mermaid diagrams" from Help Instance</description>
+        <accepts>Add-Mermaid-diagrams.html</accepts>
+    </rule>
+    <rule id="3d7a8747">
+        <description>Created after removal of "Add math formulas" from Help Instance</description>
+        <accepts>Add-math-formulas.html</accepts>
+    </rule>
+    <rule id="2cc51b7a">
+        <description>
+            <![CDATA[Created after removal of "<Quickly-add-images-links-and-tables.md>" from Help Instance]]></description>
+        <accepts>Quickly-add-images-links-and-tables.html</accepts>
+    </rule>
+    <rule id="64f52b9d">
+        <description>Created after removal of "Tutorial23" from Help Instance</description>
+        <accepts>Tutorial23.html</accepts>
+    </rule>
+    <rule id="1bbadd2d">
+        <description>Created after removal of "Empty MD Topic" from Help Instance</description>
+        <accepts>Empty-MD-Topic213.html</accepts>
+    </rule>
+    <rule id="7adcce5b">
+        <description>Created after removal of "Overview" from Help Instance</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="335e813e">
+        <description>Created after removal of "Add math formulas" from Help Instance</description>
+        <accepts>Add-math-formulas.html</accepts>
+    </rule>
+    <rule id="43ea1f1c">
+        <description>Created after removal of "Tutorial" from Help Instance</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+</rules>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                  start-page="Starter.md">
+
+    <toc-element topic="topic.md">
+        <toc-element topic="Tutorial.md"/>
+        <toc-element topic="8989.md"/>
+        <toc-element topic="Overview8.md"/>
+        <toc-element topic="How-to.md"/>
+        <toc-element topic="Starter.md"/>
+    </toc-element>
+    <toc-element topic="xml.topic">
+        <toc-element topic="Section-Starting-Page.topic"/>
+        <toc-element topic="Tutorial325.topic"/>
+        <toc-element topic="234.topic"/>
+        <toc-element topic="Overview88.topic"/>
+        <toc-element topic="How-to7.topic"/>
+    </toc-element>
+</instance-profile>

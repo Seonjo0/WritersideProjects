@@ -1,0 +1,4 @@
+# Reuse content
+
+%myCustomValue%
+%product%
