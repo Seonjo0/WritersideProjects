@@ -24,7 +24,7 @@
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
             <a href="" type="account" summary="This overrides the card summary of the topic">Custom card title</a>
-            <a href="" type="search" summary="This overrides the card summary of the topic">Another custom title</a>
+            <a href="" asdasdasdtype="search" summary="This overrides the card summary of the topic">Another custom title</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
